@@ -6,3 +6,5 @@ cd <FOLDERNAME>
 ls
 Ініціалізувати Git для папки
 git init
+git commit -m "Created readme"
+1234
